@@ -16,7 +16,7 @@
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 XO Duel is a desktop implementation of the classic Tic-Tac-Toe game developed using **C#**, **.NET Framework**, and **Windows Forms**.
 
@@ -24,7 +24,7 @@ The project focuses on creating an interactive game with clean game logic, respo
 
 ---
 
-# ✨ Features
+#  Features
 
 ## 🎲 Gameplay
 
@@ -36,7 +36,7 @@ The project focuses on creating an interactive game with clean game logic, respo
 - Winning line highlighting
 - Invalid move prevention
 
-## 🎨 User Interface
+##  User Interface
 
 - Pixel-art design
 - Custom X and O images
@@ -56,7 +56,7 @@ The project focuses on creating an interactive game with clean game logic, respo
 
 # 📸 Screenshots
 
-## 🏠 Main Window
+##  Main Window
 
 <p align="center">
   <img src="Screenshots - XODuel/Screenshot 2026-07-30 015507.png" width="850">
@@ -64,7 +64,7 @@ The project focuses on creating an interactive game with clean game logic, respo
 
 ---
 
-## 🎮 Gameplay
+##  Gameplay
 
 <p align="center">
   <img src="/Screenshots - XODuel/Screenshot 2026-07-30 015633.png" width="850">
@@ -72,7 +72,7 @@ The project focuses on creating an interactive game with clean game logic, respo
 
 ---
 
-## 🏆 Winner
+##  Winner
 
 <p align="center">
   <img src="Screenshots - XODuel/Screenshot 2026-07-30 015653.png" width="850">
@@ -156,7 +156,7 @@ git clone https://github.com/youness-chregui-amin/XODuel.git
 
 ---
 
-# 🎯 How to Play
+#  How to Play
 
 1. Launch the game.
 2. Player 1 starts with **X**.
