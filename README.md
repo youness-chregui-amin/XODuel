@@ -67,7 +67,7 @@ The project focuses on creating an interactive game with clean game logic, respo
 ## 🎮 Gameplay
 
 <p align="center">
-  <img src="Images/Gameplay.png" width="850">
+  <img src="/Screenshots - XODuel/Screenshot 2026-07-30 015633.png" width="850">
 </p>
 
 ---
@@ -75,16 +75,9 @@ The project focuses on creating an interactive game with clean game logic, respo
 ## 🏆 Winner
 
 <p align="center">
-  <img src="Images/Winner.png" width="850">
+  <img src="Screenshots - XODuel/Screenshot 2026-07-30 015653.png" width="850">
 </p>
 
----
-
-## 🤝 Draw
-
-<p align="center">
-  <img src="Images/Draw.png" width="850">
-</p>
 
 ---
 
