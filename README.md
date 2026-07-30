@@ -59,7 +59,7 @@ The project focuses on creating an interactive game with clean game logic, respo
 ## 🏠 Main Window
 
 <p align="center">
-  <img src="Images/Main.png" width="850">
+  <img src="Screenshots - XODuel/Screenshot 2026-07-30 015507.png" width="850">
 </p>
 
 ---
