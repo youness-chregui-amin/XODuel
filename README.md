@@ -1,4 +1,4 @@
-# 🎮 XO Duel
+#  XO Duel
 
 <p align="center">
   <img src="Resources/XODuel.ico" width="140" alt="XO Duel Logo">
@@ -112,7 +112,7 @@ XO Duel
 
 ---
 
-# 🎯 Gameplay Flow
+#  Gameplay Flow
 
 ```text
 Start Game
@@ -168,7 +168,7 @@ git clone https://github.com/youness-chregui-amin/XODuel.git
 
 ---
 
-# 🧠 Concepts Practiced
+#  Concepts Practiced
 
 - Windows Forms Development
 - Event-Driven Programming
@@ -183,7 +183,7 @@ git clone https://github.com/youness-chregui-amin/XODuel.git
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 - [ ] Single Player (AI)
 - [ ] Easy / Medium / Hard Difficulty
